@@ -1,2 +1,3 @@
 # Cách cài đặt
-git clone https://github.com/Tubetna/liondev.git
+- git clone https://github.com/Tubetna/liondev.git
+- cd
